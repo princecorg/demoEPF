@@ -1,0 +1,19 @@
+* {
+    color: blue;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    position: relative;
+}
+
+.quart-de-cercle {
+    width: 400px;
+    height: 400px;
+    background-color: blue; /* Couleur du quart de cercle */
+    border-top-left-radius: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
